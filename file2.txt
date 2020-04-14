@@ -1,2 +1,3 @@
 this file2
-anther line 
+anthor line 
+adding another line in file 2 
